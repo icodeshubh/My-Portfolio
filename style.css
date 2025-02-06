@@ -305,7 +305,7 @@ margin-bottom: -34px;
   font-size: 1.6rem;
 }
 .disc{
-  text-align: center;
+  /* text-align: center; */
   padding: 30px;
 }
 .disc p{
